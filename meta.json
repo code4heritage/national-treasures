@@ -16,8 +16,8 @@
     "publisher": "文化庁",
     "url": "https://kunishitei.bunka.go.jp/",
     "terms_url": "https://kunishitei.bunka.go.jp/top/policy",
-    "accessed_date": "2026-10-19",
-    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年10月19日に利用）\n上記を加工して作成"
+    "accessed_date": "2026-10-26",
+    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年10月26日に利用）\n上記を加工して作成"
   },
   "generator": {
     "name": "heritage-crawler",
@@ -96,10 +96,10 @@
     "longitude": 303,
     "storage_facility": 1,
     "owner": 302,
-    "owner_type": 26,
+    "owner_type": 28,
     "custodian": 20,
-    "description": 162,
-    "detailed_description": 265,
+    "description": 160,
+    "detailed_description": 266,
     "annexes": 117,
     "has_attachment": 303,
     "has_photo": 303
@@ -176,7 +176,7 @@
     },
     "owner_type": {
       "市区町村": 12,
-      "寺院": 6,
+      "寺院": 8,
       "神社": 6,
       "法人": 2
     },
